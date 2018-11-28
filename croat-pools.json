@@ -9,7 +9,7 @@
         },
         {
             "name" : "POOL.cat",
-            "url" : "https://pool.croat.cat/",
+            "url" : "https://croat.pool.cat/",
             "api" : "https://croat-api.pool.cat:2053/",
             "type" : "forknote",
             "miningAddress" : "croat-stratum.pool.cat"
