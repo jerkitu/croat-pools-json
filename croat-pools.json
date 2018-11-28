@@ -27,6 +27,6 @@
             "api" : "https://croatpool.com:8119/",
             "type" : "forknote",
             "miningAddress" : "croatpool.com"
-        },        
+        }        
     ]
 }
