@@ -1,28 +1,28 @@
 {
     "pools" : [
         {
-            "name" : "CROAT.cat,
+            "name" : "CROAT.cat",
             "url" : "http://pool.croat.cat/",
             "api" : "http://178.22.66.126:8117/",
             "type" : "forknote",
             "miningAddress" : "pool.croat.cat"
         },
         {
-            "name" : "POOL.cat,
+            "name" : "POOL.cat",
             "url" : "https://pool.croat.cat/",
             "api" : "https://croat-api.pool.cat:2053/",
             "type" : "forknote",
             "miningAddress" : "croat-stratum.pool.cat"
         },
         {
-            "name" : "CROATPirineus.cat,
+            "name" : "CROATPirineus.cat",
             "url" : "https://pool.croatpirineus.cat/",
             "api" : "https://pool.croatpirineus:8119/",
             "type" : "forknote",
             "miningAddress" : "pool.croatpirineus.cat"
         },
         {
-            "name" : "CROATPOOL.com,
+            "name" : "CROATPOOL.com",
             "url" : "https://croatpool.com/",
             "api" : "https://croatpool.com:8119/",
             "type" : "forknote",
